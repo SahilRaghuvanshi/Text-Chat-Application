@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "386665638243",
+    "firebase_url": "https://myfirstapp-7f0c0-default-rtdb.firebaseio.com",
+    "project_id": "myfirstapp-7f0c0",
+    "storage_bucket": "myfirstapp-7f0c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386665638243:android:845646d77949482ccd0b56",
+        "android_client_info": {
+          "package_name": "com.compgrp4.textchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386665638243-iqifm57dh9k9boktn0lav8mdlf4bp1jg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAacwAtQopAW1ExlbHv15Sf2h4fgR074YQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386665638243-iqifm57dh9k9boktn0lav8mdlf4bp1jg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

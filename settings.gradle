@@ -1,0 +1,2 @@
+rootProject.name = "TextChat"
+include ':app'
